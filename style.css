@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text{
+    text-align: center;
+    margin-top: 30px;
+}
+.brand{
+    border: 1px solid black;
+    padding: 10px;
+  padding-left: 100px;  
+  padding-right: 100px;  
+  background-color: rgb(214, 126, 179);
+}
+.para{
+    margin-top: 20px;
+    padding-top: 25px;
+    margin: 10px;
+}
+.line{
+    color: rgb(174, 17, 111);
+}
+.team{
+    text-align: center;
+    margin-top: 30px;
+}
+.team-leaders{
+    text-align: center;
+   margin-top: 25px;
+  
+}
+.lead{
+    border: 1px solid black;
+     padding-top: 5px;
+     padding-left: 50px;
+     padding-right: 50px;
+    padding-bottom: 5px;
+    background-color: rgb(214, 126, 179);
+}
+.pic{
+    text-align: center;
+    margin-top: 50px;
+  
+}
+.img2{
+    border-radius: 50px;
+    
+}
+.box1{
+    display: inline-block;
+}
+.box2{
+    display: inline-block;
+    margin-right: 50px;
+}
+.box3{
+    display: inline-block;
+    margin-right: 50px;
+}
+.box4{
+    display: inline-block;
+}
+.box5{
+    display: inline-block;
+    margin-left: 50px;
+    
+}
+.box6{
+    display: inline-block;
+   
+}
+
+
+.space{
+    margin-top: 10px;
+}
+.space1{
+    margin-top: 10px;
+    color: rgb(221, 79, 221);
+    margin-bottom: 30px;
+    margin-right: 30px;
+}
+.border{
+    border: 2px solid rgb(11, 11, 11);
+}
